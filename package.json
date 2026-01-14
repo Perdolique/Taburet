@@ -1,7 +1,7 @@
 {
   "name": "Taburet",
   "version": "0.0.0",
-  "description": "Variant of chair without back and armrests, written on JavaScript.",
+  "description": "Variant of chair without back and armrests, written in JavaScript.",
   "main": "taburet.js",
   "repository": {
     "type": "git",
